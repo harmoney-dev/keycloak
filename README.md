@@ -1,4 +1,5 @@
-# Keycloak
+# Archived
+## Keycloak
 
 * [pt-BR translation](https://github.com/imagov/keycloak/blob/master/README.pt-BR.md)
 
